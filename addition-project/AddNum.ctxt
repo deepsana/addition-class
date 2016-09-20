@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.params=num1\ num2
+comment0.target=AddNum(double,\ double)
+comment0.text=\r\n\ Description\:\ It\ reads\ out\ the\ two\ numbers\ addes.\r\n\ Input\:\ The\ type\ double\r\n\ Output\:\ The\ type\ double\r\n\ Example\:\ 1+1\ \=\ 2\r\n
+comment1.params=
+comment1.target=void\ showAnswer()
+numComments=2

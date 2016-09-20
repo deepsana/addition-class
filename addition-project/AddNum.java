@@ -5,10 +5,10 @@ public class AddNum
     private double num;
 
     /**
-     * Description: It reads out the two numbers addes.
+     * Description: It reads out the two numbers adds.
      * Input: The type double
      * Output: The type double
-     * Example: 1+1 = 2
+     * Example: 1.5+1 = 2.5
      */
     public AddNum(double num1, double num2)
     {
@@ -16,9 +16,9 @@ public class AddNum
         num = num1 +num2;
     }
 
-    public void getNum()
+    public void showAnswer()
     {
-        System.out.println("Sum of two numers="+ num); // reads the sum of two numbers
+        System.out.println("Sum of two numbers="+ num); // reads the sum of two numbers
     }
 
 }
